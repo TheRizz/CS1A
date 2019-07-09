@@ -1,0 +1,87 @@
+**************************************************
+*  PROGRAMMED BY : 127.0.1, Debaggis
+*  CLASS         : CS1A
+*  SECTION       : MW: 10:00a - 12:00p
+*  LAB #25       : Array Train Set #2
+**************************************************
+
+NAME      AGE       
+____________________
+          -1        
+          -1        
+          -1        
+          -1        
+          -1        
+          -1        
+          -1        
+          -1        
+          -1        
+          -1        
+
+NAME      AGE       
+____________________
+Cole      23        
+Jake      22        
+Brian     26        
+Drew      18        
+Jenny     25        
+James     23        
+Jason     22        
+Ivan      22        
+Michele   35        
+James     19        
+
+Type "done" if done entering inputs
+Name  #1: Cole
+Age   #1: 23
+
+Type "done" if done entering inputs
+Name  #2: Jake
+Age   #2: 22
+
+Type "done" if done entering inputs
+Name  #3: Brian
+Age   #3: 26
+
+Type "done" if done entering inputs
+Name  #4: Drew
+Age   #4: 18
+
+Type "done" if done entering inputs
+Name  #5: Jenny
+Age   #5: 25
+
+Type "done" if done entering inputs
+Name  #6: James
+Age   #6: 23
+
+Type "done" if done entering inputs
+Name  #7: Jason
+Age   #7: 22
+
+Type "done" if done entering inputs
+Name  #8: Ivan
+Age   #8: 22
+
+Type "done" if done entering inputs
+Name  #9: Michele
+Age   #9: 35
+
+Type "done" if done entering inputs
+Name  #10: James
+Age   #10: 19
+
+
+NAME      AGE       
+____________________
+Cole      23        
+Jake      22        
+Brian     26        
+Drew      18        
+Jenny     25        
+James     23        
+Jason     22        
+Ivan      22        
+Michele	  35        
+James     19        
+

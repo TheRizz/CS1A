@@ -1,0 +1,24 @@
+******************************************************
+*  PROGRAMMED BY : Debaggis
+*  CLASS         : CS1A
+*  SECTION       : MW: 10:00a - 12:00p
+*  LAB #20       : Boolean Expression
+******************************************************
+
+Input your class code ('F','S,'J','R'): F
+F is valid - thank you!
+
+Input your class code ('F','S,'J','R'): S
+S is valid - thank you!
+
+Input your class code ('F','S,'J','R'): J
+J is valid - thank you!
+
+Input your class code ('F','S,'J','R'): Z
+Z is an INVALID INPUT - Please try again!
+
+Input your class code ('F','S,'J','R'): X
+X is an INVALID INPUT - Please try again!
+
+Input your class code ('F','S,'J','R'): R
+R is valid - thank you!

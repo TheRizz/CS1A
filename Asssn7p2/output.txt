@@ -1,0 +1,48 @@
+**************************************************
+*  PROGRAMMED BY : Debaggis, deerhunter
+*  CLASS         : CS1A
+*  SECTION       : MW: 10:00a - 12:00p
+*  ASN #7        : Repetition
+**************************************************
+
+TEST #1:
+	Enter letter grade : a
+	Enter letter grade : b
+	Enter letter grade : j
+	Error, Please enter in a valid grade
+	Enter letter grade : A
+	Enter letter grade : B
+	Enter letter grade : J
+	Error, Please enter in a valid grade
+	Enter letter grade : F
+
+	Total Grade Points: 14
+	Grade Point Average: 2.80
+
+
+TEST #2:
+	Enter letter grade : 2
+	Error, Please enter in a valid grade
+	Enter letter grade : 5
+	Error, Please enter in a valid grade
+	Enter letter grade : A
+	Enter letter grade : C
+	Enter letter grade : d
+	Enter letter grade : f
+	Enter letter grade : D
+
+	Total Grade Points: 8
+	Grade Point Average: 1.60
+
+
+TEST #3:
+	Enter letter grade : c
+	Enter letter grade : t
+	Error, Please enter in a valid grade
+	Enter letter grade : A
+	Enter letter grade : F
+	Enter letter grade : B
+	Enter letter grade : D
+
+	Total Grade Points: 10
+	Grade Point Average: 2.00

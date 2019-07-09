@@ -1,0 +1,66 @@
+****************************************************
+*	PROGRAMMED BY : Jay & Debaggis
+*	CLASS         : CS1A
+*	SECTION       : MW: 10 a - 11:50 a
+*	LAB #25       : Array Train
+****************************************************
+
+Please type the names you wish to enter:
+Name #1: Grace
+Name #2: Charles
+Name #3: Herman
+Name #4: Woz
+Name #5: Ada
+Name #6: Alan
+Name #7: Michele
+
+Please type the ages you wish to enter:
+Age #1: 85
+Age #2: 79
+Age #3: 63
+Age #4: 63
+Age #5: 36
+Age #6: 36
+Age #7: 28
+
+This will search for the first instance of a number found in the array.
+Enter the number you want to search for(enter -1 to exit): 85
+The first instance of age 85 is the #1 person and the name is Grace.
+
+Enter the number you want to search for(enter -1 to exit): 63
+The first instance of age 63 is the #3 person and the name is Herman.
+
+Enter the number you want to search for(enter -1 to exit): 40
+The number is not in the list.
+
+Enter the number you want to search for(enter -1 to exit): -1
+
+This will show the number of instances of the age you search.
+What number do you want to search for? (enter -1 to exit): 85
+The number of instances of age 85 is 1.
+
+What number do you want to search for? (enter -1 to exit): 36
+The number of instances of age 36 is 2.
+
+What number do you want to search for? (enter -1 to exit): 40
+The number is not in the list.
+
+What number do you want to search for? (enter -1 to exit): -1
+
+This will search for someone by their name.
+Who do you want to search for (enter done to exit)? Grace
+There is one instance of the name Grace
+
+Who do you want to search for (enter done to exit)? Michele
+There is one instance of the name Michele
+
+Who do you want to search for (enter done to exit)? lee
+The name is not in the list.
+
+Who do you want to search for (enter done to exit)? done
+
+The oldest person in the group is Grace at the age of 85
+
+The youngest person in the group is Michele at the age of 28
+
+The sum of the ages is 390.

@@ -1,0 +1,23 @@
+******************************************************
+*  PROGRAMMED BY : Debaggis
+*  CLASS         : CS1A
+*  SECTION       : MW: 10:00a - 12:00p
+*  LAB #20       : Boolean Expression
+******************************************************
+
+Hello! Please type your appropriate rank (2-8): 1
+Your rank is: Error, incorrect number
+
+Hello! Please type your appropriate rank (2-8): 3
+Your rank is: Lower
+
+Hello! Please type your appropriate rank (2-8): 6
+Your rank is: Middle
+
+Hello! Please type your appropriate rank (2-8): 8
+Your rank is: Error, incorrect number
+
+Hello! Please type your appropriate rank (2-8): 10
+Your rank is: Error, incorrect number
+
+Hello! Please type your appropriate rank (2-8): -1

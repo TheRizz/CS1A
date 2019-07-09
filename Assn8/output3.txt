@@ -1,0 +1,9 @@
+**************************************************
+*  PROGRAMMED BY : Debaggis
+*  CLASS         : CS1A
+*  SECTION       : MW: 10:00a - 12:00p
+*  ASN #8        : Loops & Boolean Expressions
+**************************************************
+
+Please enter the candidate's information (enter 'X' to exit).
+Gender:   X

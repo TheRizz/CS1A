@@ -1,0 +1,292 @@
+**************************************************
+*  PROGRAMMED BY : Debaggis, GaryOak
+*  CLASS         : CS1A
+*  SECTION       : MW: 10:00a - 12:00p
+*  ASN #7        : Repetition
+**************************************************
+
+Enter Player's Name: Andrew Daniels
+Enter Number of Rounds in Match: 3
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: R
+
+Andrew Daniels chooses ROCK!
+Computer chooses ROCK!
+
+Computer wins, better luck next time, Andrew Daniels!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: s
+
+Andrew Daniels chooses SCISSORS!
+Computer chooses PAPER!
+
+Andrew Daniels WINS!!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: x
+
+** INVALID INPUT - Please Enter (R,P,or S) **
+
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: P
+
+Andrew Daniels chooses PAPER!
+Computer chooses ROCK!
+
+Andrew Daniels WINS!!
+
+
+***********************************
+********** FINAL RESULTS *********
+***********************************
+
+Andrew Daniels is the WINNER, WINNER, CHICKEN DINNER!!
+Andrew Daniels won 67 % of the time!
+
+
+
+Enter Player's Name: Shawn Azar
+Enter Number of Rounds in Match: 5
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: X
+
+** INVALID INPUT - Please Enter (R,P,or S) **
+
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: x
+
+** INVALID INPUT - Please Enter (R,P,or S) **
+
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: R
+
+Shawn Azar chooses ROCK!
+Computer chooses ROCK!
+
+Computer wins, better luck next time, Shawn Azar!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: r
+
+Shawn Azar chooses ROCK!
+Computer chooses PAPER!
+
+Computer wins, better luck next time, Shawn Azar!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: S
+
+Shawn Azar chooses SCISSORS!
+Computer chooses ROCK!
+
+Computer wins, better luck next time, Shawn Azar!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: s
+
+Shawn Azar chooses SCISSORS!
+Computer chooses ROCK!
+
+Computer wins, better luck next time, Shawn Azar!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: P
+
+Shawn Azar chooses PAPER!
+Computer chooses ROCK!
+
+Shawn Azar WINS!!
+
+
+***********************************
+********** FINAL RESULTS *********
+***********************************
+
+Shawn Azar has LOST!
+Shawn Azar lost 80 % of the time!
+
+
+
+Enter Player's Name: Erik Karlsson
+Enter Number of Rounds in Match: 7
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: D
+
+** INVALID INPUT - Please Enter (R,P,or S) **
+
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: d
+
+** INVALID INPUT - Please Enter (R,P,or S) **
+
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: P
+
+Erik Karlsson chooses PAPER!
+Computer chooses ROCK!
+
+Erik Karlsson WINS!!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: p
+
+Erik Karlsson chooses PAPER!
+Computer chooses PAPER!
+
+Computer wins, better luck next time, Erik Karlsson!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: R
+
+Erik Karlsson chooses ROCK!
+Computer chooses ROCK!
+
+Computer wins, better luck next time, Erik Karlsson!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: r
+
+Erik Karlsson chooses ROCK!
+Computer chooses ROCK!
+
+Computer wins, better luck next time, Erik Karlsson!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: S
+
+Erik Karlsson chooses SCISSORS!
+Computer chooses ROCK!
+
+Computer wins, better luck next time, Erik Karlsson!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: s
+
+Erik Karlsson chooses SCISSORS!
+Computer chooses PAPER!
+
+Erik Karlsson WINS!!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: B
+
+** INVALID INPUT - Please Enter (R,P,or S) **
+
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: S
+
+Erik Karlsson chooses SCISSORS!
+Computer chooses PAPER!
+
+Erik Karlsson WINS!!
+
+
+***********************************
+********** FINAL RESULTS *********
+***********************************
+
+Erik Karlsson has LOST!
+Erik Karlsson lost 57 % of the time!

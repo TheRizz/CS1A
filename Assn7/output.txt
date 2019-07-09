@@ -1,0 +1,38 @@
+******************************************************
+*  PROGRAMMED BY : Debaggis
+*  CLASS         : CS1A
+*  SECTION       : MW: 10:00a - 12:00p
+*  ASN #7        : Repetition
+******************************************************
+
+TEST #1:
+	Enter Letter Grade #1: C
+	Enter Letter Grade #2: B
+	Enter Letter Grade #3: A
+	Enter Letter Grade #4: D
+	Enter Letter Grade #5: C
+
+	Total Grade Points: 12
+	Grade Point Average: 2.40
+
+
+TEST #2:
+	Enter Letter Grade #1: A
+	Enter Letter Grade #2: B
+	Enter Letter Grade #3: A
+	Enter Letter Grade #4: B
+	Enter Letter Grade #5: C
+
+	Total Grade Points: 16
+	Grade Point Average: 3.20
+
+
+TEST #3:
+	Enter Letter Grade #1: A
+	Enter Letter Grade #2: C
+	Enter Letter Grade #3: D
+	Enter Letter Grade #4: A
+	Enter Letter Grade #5: F
+
+	Total Grade Points: 11
+	Grade Point Average: 2.20
